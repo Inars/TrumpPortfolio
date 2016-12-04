@@ -1,0 +1,36 @@
+.logo {
+    width:100px;
+    height:100px;
+}
+
+.menu nav a {
+    text-decoration: none;
+    margin-top: 0px;
+}
+
+.menu nav a:hover:not(:first-child) {
+    background-color: white;
+}
+
+.menu nav a:hover span{
+    color: black;
+}
+
+.menu nav a span{
+    color: white;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 20px 20px;
+    position: relative;
+    top: 30px;
+}
+
+.menu nav {
+    display: flex;
+    vertical-align: top;
+}
+
+.menu > div {
+    padding: 0px !important;
+}

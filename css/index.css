@@ -1,0 +1,20 @@
+.headsection {
+    background-image: url("../images/tdy_jackson_trump_160817.jpg");
+    -webkit-background-size: cover;
+    background-size: cover;
+    height: 800px;
+    padding: 0px 20px !important;
+}
+
+.headsection span {
+    font-size: 80px;
+    color: white;
+    font-family: "Gotham SSm A", sans-serif;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.headsection .headbodysection {
+    padding: 30px 80px;
+    margin: 0px auto;
+}
