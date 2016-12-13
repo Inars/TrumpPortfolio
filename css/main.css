@@ -106,6 +106,9 @@ body {
     text-align: center;
     text-transform: uppercase;
 }
+.issue-item:hover h2 {
+    color: #9A0207;
+}
 ul {
     list-style: square;
 }
