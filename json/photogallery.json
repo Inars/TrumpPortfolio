@@ -1,0 +1,38 @@
+[
+	{
+		"key" : "donaldjtrumpwillmakeamericagreatagain",
+		"value" :
+		{
+            "title" : "DONALD J. TRUMP WILL MAKE AMERICA GREAT AGAIN",
+			"date" : "- OCTOBER 31, 2016 -",
+			"html" : "<div class='row'><div class='col-6'><img src='images/gallery%201/screen_shot_2016-10-30_at_1.33.02_pm.png' class='portrait'></div><div class='col-6'><img src='images/gallery%201/screen_shot_2016-10-30_at_1.39.19_pm.png' class='portrait'></div></div><div class='row'><div class='col-6'><img src='images/gallery%201/screen_shot_2016-10-30_at_1.39.54_pm.png' class='portrait'></div><div class='col-6'><img src='images/gallery%201/screen_shot_2016-10-30_at_1.40.12_pm.png' class='portrait'></div></div><div class='row'><div class='col-6'><img src='images/gallery%201/screen_shot_2016-10-30_at_1.49.26_pm.png' class='portrait'></div><div class='col-6'><img src='images/gallery%201/screen_shot_2016-10-30_at_2.23.19_pm.png' class='portrait'></div></div>"
+		}
+	},
+	{
+		"key" : "donaldjtrumpindesmoinesiowa",
+		"value" :
+		{
+            "title" : "DONALD J. TRUMP IN DES MOINES, IOWA",
+			"date" : "- SEPTEMBER 13, 2016 -",
+			"html" : "<div class='row'><div class='col-6'><img src='images/gallery%202/autograph.jpg' class='portrait'></div><div class='col-6'><img src='images/gallery%202/djtia.jpg' class='portrait'></div></div><div class='row'><div class='col-6'><img src='images/gallery%202/fullsizerender.jpg' class='portrait'></div><div class='col-6'><img src='images/gallery%202/iadjt.jpg' class='portrait'></div></div><div class='row'><div class='col-6'><img src='images/gallery%202/iarally.jpg' class='portrait'></div><div class='col-6'><img src='images/gallery%202/signingdjt.jpg' class='portrait'></div></div>"
+		}
+	},
+	{
+		"key" : "memorialday",
+		"value" :
+		{
+            "title" : "MEMORIAL DAY",
+			"date" : "- MAY 29, 2016 -",
+			"html" : "<div class='row'><div class='col-6'><img src='images/gallery%203/file_jul_11,_10_30_02_am.jpeg' class='portrait'></div><div class='col-6'><img src='images/gallery%203/file_jul_11,_10_30_54_am.jpeg' class='portrait'></div></div><div class='row'><div class='col-6'><img src='images/gallery%203/file_jul_11,_10_41_32_am.jpeg' class='portrait'></div><div class='col-6'><img src='images/gallery%203/file_jul_11,_10_42_24_am.jpeg' class='portrait'></div></div><div class='row'><div class='col-6'><img src='images/gallery%203/file_jul_11,_10_46_09_am.jpeg' class='portrait'></div><div class='col-6'><img src='images/gallery%203/file_jul_11,_10_53_47_am.jpeg' class='portrait'></div></div>"
+		}
+	},
+	{
+		"key" : "fayettevillenc",
+		"value" :
+		{
+            "title" : "FAYETTEVILLE, NC",
+			"date" : "- MARCH 09, 2016 -",
+			"html" : "<div class='row'><div class='col-6'><img src='images/gallery%204/trump_ghp_fayetteville_(2).jpg' class='portrait'></div><div class='col-6'><img src='images/gallery%204/trump_ghp_fayetteville_(5).jpg' class='portrait'></div></div><div class='row'><div class='col-6'><img src='images/gallery%204/trump_ghp_fayetteville_(15).jpg' class='portrait'></div><div class='col-6'><img src='images/gallery%204/trump_ghp_fayetteville_(18).jpg' class='portrait'></div></div><div class='row'><div class='col-6'><img src='images/gallery%204/trump_ghp_fayetteville_(20).jpg' class='portrait'></div><div class='col-6'><img src='images/gallery%204/trump_ghp_fayetteville_(21).jpg' class='portrait'></div></div>"
+		}
+	}
+]

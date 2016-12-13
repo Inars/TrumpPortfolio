@@ -4,15 +4,15 @@
 .photocontainer h4{
     font-style: italic;
 }
-
 a {
     text-decoration: none;
 }
-
 a h2 {
     color: #000;
 }
-
 a h4 {
     color: #555555;
+}
+.photocontainer:hover h2{
+    color: #B00909;
 }

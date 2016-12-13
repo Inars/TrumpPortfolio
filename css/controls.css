@@ -17,7 +17,7 @@ input[type=text], input[type=email], select {
 }
 
 input[type=text]:focus, input[type=email]:focus, select:focus, textarea:focus {
-    border: 3px solid #555;
+    border: 3px solid #9A0207;
 }
 
 textarea {
@@ -35,7 +35,7 @@ textarea {
 .button {
     display: inline-block;
     border-radius: 4px;
-    background-color: #555;
+    background-color: #9A0207;
     border: none;
     color: #FFFFFF;
     text-align: center;

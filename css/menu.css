@@ -2,20 +2,16 @@
     width:100px;
     height:100px;
 }
-
 .menu nav a {
     text-decoration: none;
     margin-top: 0px;
 }
-
 .menu nav a:hover:not(:first-child) {
     background-color: white;
 }
-
 .menu nav a:hover span{
     color: black;
 }
-
 .menu nav a span{
     color: white;
     font-size: 15px;
@@ -25,12 +21,32 @@
     position: relative;
     top: 30px;
 }
-
 .menu nav {
     display: flex;
     vertical-align: top;
 }
-
 .menu > div {
     padding: 0px !important;
+}
+.footer {
+    background-color: #820408;
+}
+.footer img {
+    width: 30px;
+    height: 30px;
+}
+.footer nav div {
+    text-align: center;
+}
+.footer a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.footer a span {
+    margin-left: 10px;
+    position: relative;
+    top: -10px;
+}
+.footer div:not(:last-child):nth-child(even) {
+    background-color: #9A0207;
 }

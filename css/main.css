@@ -46,103 +46,137 @@ body {
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
 }
-
 .panel {
     margin: 10px 20px;
     background-color: white;
     box-shadow: 5px 5px 5px #888888;
 }
-
 .panel .panel-header, .panel .panel-content {
     padding: 20px;
 }
-
 .panel .panel-header h2 {
     text-transform: uppercase;
+    color: #820408;
 }
-
 .title {
     font-weight: bold;
     text-transform: capitalize;
     color: darkslategray;
 }
-
 .title-main {
     font-weight: bold;
     text-transform: capitalize;
     color: black;
     font-size: 20px;
 }
-
 .text-content {
     text-align: justify;
     font-size: 12px;
 }
-
 .portrait {
     width: 100%;
     height: auto;
 }
-
 .table {
     border-collapse: collapse;
     width: 100%;
 }
-
 .table th, td {
     padding: 8px;
     text-align: left;
     border-bottom: 1px solid #ddd;
 }
-
 .table tr:hover {
     background-color:#f5f5f5
 }
-
 .issue-item {
     text-decoration: none;
 }
-
 .issue-item p {
     color: red;
 }
-
 .issue-item h2 {
     color: black;
 }
-
 .issue-item img {
     width: 64px;
     height: 64px;
 }
-
 .issue-item p, .issue-item h2 {
     text-align: center;
     text-transform: uppercase;
 }
-
 ul {
     list-style: square;
 }
-
 ul li {
     color: #C8102E;
 }
-
 ul li p {
     color: black;
 }
-
 .wrap img {
     float:right;
 }
-
 .wrap p {
     text-align: justify;
 }
-
 .image {
     max-width: 200px;
     width: 100%;
     height: auto;
+}
+.required {
+    color: red;
+}
+.success {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #d6e9c6;
+    border-radius: 4px;
+    color: #3c763d;
+    background-color: #dff0d8;
+    display: none;
+ }
+#return-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.7);
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-decoration: none;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    display: none;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top img {
+    width: 17.66px;
+    height: 19px;
+    color: #fff;
+    margin: 0;
+    position: relative;
+    left: 16px;
+    top: 13px;
+    font-size: 19px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top:hover {
+    background: rgba(0, 0, 0, 0.9);
+}
+#return-to-top:hover img {
+    color: #fff;
+    top: 5px;
 }
